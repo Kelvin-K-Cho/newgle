@@ -1,10 +1,9 @@
+=======
 # Newgle
 
 ### Newgle extracts news with NewsAPI and populates a single page application.
 
 ## Background and Overview
-
-this is not garbage;
 
 # TEKZ Pre-Proposal:
 ---
@@ -44,4 +43,4 @@ adsfafsdfadf
 ## Newgle
 
 Overview:
-Newgle is a modern redesign of a web news application that is customized to every user based on their personal search preferences..
+Newgle is a modern redesign of a web news application that is customized to every user based on their personal search preferences....
