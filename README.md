@@ -1,12 +1,12 @@
-# TEKZ Pre-Proposal: 
+# TEKZ Pre-Proposal:
 ---
 ## Members:
 - Ling Kit Edward Cheng
 - Kelvin Cho
 - Tan Loc Phan
 
-## General Ideas: 
-- NewsAPI (requires a registered key) 
+## General Ideas:
+- NewsAPI (requires a registered key)
 - 1000 per day
 - Comes back as a JSON object
 - Webhose.io (extreme backup)
@@ -18,8 +18,9 @@
 - React/JavaScript
 - Redux
 
+adsfafsdfadf
 
-## Weekend Plan: 
+## Weekend Plan:
 - Setting up Django/Auth/Database
 - Subscribe and test NewsAPI
 - Create a basic wireframe design of our main project homepage
