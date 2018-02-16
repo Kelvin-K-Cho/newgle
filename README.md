@@ -6,7 +6,7 @@
 - Tan Loc Phan
 - Zhipeng Wen
 
-## General Idea: 
+## General Ideas: 
 - NewsAPI (requires a registered key) 
 - 1000 per day
 - Comes back as a JSON object
