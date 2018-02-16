@@ -1,3 +1,10 @@
+=======
+# Newgle
+
+### Newgle extracts news with NewsAPI and populates a single page application.
+
+## Background and Overview
+
 # TEKZ Pre-Proposal:
 ---
 ## Members:
@@ -5,7 +12,7 @@
 - Kelvin Cho
 - Tan Loc Phan
 
-## General Idea:
+## General Ideas:
 - NewsAPI (requires a registered key)
 - 1000 per day
 - Comes back as a JSON object
@@ -18,6 +25,7 @@
 - React/JavaScript
 - Redux
 
+adsfafsdfadf
 
 ## Weekend Plan:
 - Setting up Django/Auth/Database
