@@ -4,8 +4,7 @@
 
 ## Background and Overview
 
-this is garbage
-
+this is not garbage;
 
 # TEKZ Pre-Proposal:
 ---
