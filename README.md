@@ -4,7 +4,6 @@
 - Ling Kit Edward Cheng
 - Kelvin Cho
 - Tan Loc Phan
-- Zhipeng Wen
 
 ## General Ideas: 
 - NewsAPI (requires a registered key) 
