@@ -1,3 +1,12 @@
+# Newgle
+
+### Newgle extracts news with NewsAPI and populates a single page application.
+
+## Background and Overview
+
+
+
+
 # TEKZ Pre-Proposal:
 ---
 ## Members:
