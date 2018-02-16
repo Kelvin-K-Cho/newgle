@@ -35,4 +35,4 @@
 ## Newgle
 
 Overview:
-Newgle is a modern redesign of a web news application that is customized to every user based on their personal search preferences. 
+Newgle is a modern redesign of a web news application that is customized to every user based on their personal search preferences..
