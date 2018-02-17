@@ -25,7 +25,7 @@
 - React/JavaScript
 - Redux
 
-adsfafsdfadf
+adsfafsdfadfasdfafdasfddddd
 
 ## Weekend Plan:
 - Setting up Django/Auth/Database
